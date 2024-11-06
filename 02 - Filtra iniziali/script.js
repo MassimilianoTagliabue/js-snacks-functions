@@ -3,6 +3,12 @@
 const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 
 // Dichiara la funzione qui.
+/**
+ * Description
+ * @param {array} names
+ * @param {string} letter
+ * @returns {array}
+ */
 const nameWith = (names,letter) =>{
 
     const parole = [];
