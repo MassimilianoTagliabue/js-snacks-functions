@@ -8,7 +8,7 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
  * 
  * @param {array} nomi 
  */
-function firstLetter(nomi){
+const firstLetter = (nomi) =>{
 
     const letter = [];
 
